@@ -1,34 +1,34 @@
-# 💎 Product Page - E-commerce Product Page
+#  Product Page - E-commerce Product Page
 
 A modern, responsive e-commerce product page built with React and Tailwind CSS, featuring an elegant jewelry necklace showcase with interactive elements and customer reviews.
 
 
-## ✨ Features
+##  Features
 
-### 🛍️ Product Showcase
+###  Product Showcase
 - **Interactive Image Gallery** - Main product image with thumbnail navigation
 - **Detailed Product Information** - Specifications, materials, and descriptions
 - **Dynamic Pricing** - Original price, discounted price, and savings display
 - **Customer Ratings** - Star ratings and review count
 
-### 🛒 E-commerce Functionality
+###  E-commerce Functionality
 - **Add to Cart** - Responsive add to cart button
 - **Buy Now** - Quick purchase option
 - **Pincode Delivery Checker** - Enter pincode to check delivery availability
 - **Offers Section** - Display available coupons and deals
 
-### 👥 Social Proof
+###  Social Proof
 - **Customer Reviews** - Real customer feedback with photos
 - **Star Ratings** - 5-star rating system
 - **Review Images** - Customer-uploaded product photos
 
-### 🎨 Design & UX
+###  Design & UX
 - **Responsive Design** - Mobile-first approach, works on all devices
 - **Modern UI** - Clean, minimalist design with custom brand colors
 - **Interactive Elements** - Hover effects, transitions, and animations
 - **Accessibility** - Proper contrast ratios and semantic HTML
 
-### 🚀 Additional Features
+###  Additional Features
 - **Similar Products** - Product recommendations
 - **BestSeller Badges** - Highlight popular items
 - **Promotional Banner** - Time-sensitive offers display
@@ -63,7 +63,7 @@ A modern, responsive e-commerce product page built with React and Tailwind CSS, 
 npm run build
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 jewelry-store/
@@ -81,7 +81,7 @@ jewelry-store/
 └── README.md                  # Project documentation
 ```
 
-## 🎨 Color Scheme
+##  Color Scheme
 
 The application uses a sophisticated color palette with a custom brand color:
 
@@ -134,7 +134,7 @@ Update product details in the `ProductPage.jsx` component:
 <span>₹ Your Price</span>
 ```
 
-## 📦 Available Scripts
+##  Available Scripts
 
 - `npm start` - Run the development server
 - `npm run build` - Build for production
@@ -153,18 +153,9 @@ npm run build
 npm run deploy
 ```
 
-##  Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Unsplash** - High-quality jewelry images
 - **Lucide** - Beautiful icon library
@@ -173,11 +164,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 
-## SEO Ready
-
-- Semantic HTML structure
-- Meta tags optimization
-- Open Graph tags
-- Schema.org structured data (ready to implement)
-- Fast loading times
-- Mobile-friendly design
+n
